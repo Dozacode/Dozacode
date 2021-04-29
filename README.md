@@ -1,3 +1,7 @@
+# Hi I'm John 👋 
+[![Linkedin Badge](https://img.shields.io/badge/-John-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/john-mendoza-52534752/)](https://www.linkedin.com/in/dthyresson)
+[![Website Badge](https://img.shields.io/badge/-John.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://thyresson.io)](https://johnmendoza.dev)
+
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/dozaCode/dozaCode/master/whatup.gif" width="500"/>
 
 <h3> ⚡ ⚡   About Me⚡ ⚡  </h3>
@@ -45,12 +49,5 @@
 
 
 
-<h3> 🤝🏻 Connect with Me </h3>
-
-<p align="center">
-&nbsp; <a href="twitterurl" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="instagramurl" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="linkedinur" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-</p>
 
 
