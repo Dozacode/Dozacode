@@ -7,6 +7,12 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; CISSP | CCSP
 - 🌄 &nbsp; Being outdoors and challenging myself is my happy place.
+<h3>🎓🎓 Certifications🎓🎓 </h3>
+
+<p align="left">
+&nbsp; <a href="https://www.credly.com/badges/ff7b94eb-4f22-4c91-b530-1e5a770334fe/public_url" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/dozaCode/dozaCode/master/CISSP.png" width="75" /></a>  
+&nbsp; <a href="https://www.credly.com/badges/5206763f-0eac-4ede-ada7-c12e6ce82032/public_url" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/dozaCode/dozaCode/master/CCSP.png" width="75" /></a>  
+</p>
 
 
 <h3>🛠 🛠 Tech Stack🛠 🛠 </h3>
@@ -48,4 +54,4 @@
 &nbsp; <a href="linkedinur" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 </p>
 
-⭐️ From [dozaCode](https://github.com/dozaCode)
+
