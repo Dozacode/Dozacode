@@ -2,12 +2,10 @@
 
 <h3> ⚡ ⚡   About Me⚡ ⚡  </h3>
 
+- 💼 &nbsp; Maritime inspector by day, security dev by night.
 - 🔭 &nbsp; Currently working on developing GraphQL security standards
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; CISSP | CCSP
-- 💼 &nbsp; Android developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - 🌄 &nbsp; Being outdoors and challenging myself is my happy place.
 
 
