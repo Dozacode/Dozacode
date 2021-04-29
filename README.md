@@ -1,4 +1,3 @@
-
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/dozaCode/dozaCode/master/whatup.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
