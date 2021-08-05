@@ -1,4 +1,4 @@
-# Hi I'm John 👋 
+# Hi, i'm John 👋 
 [![Linkedin Badge](https://img.shields.io/badge/-John-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/j0hnM/)](https://www.linkedin.com/in/j0hnM)
 [![Website Badge](https://img.shields.io/badge/-John.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://thyresson.io)](https://johnmendoza.dev)
 
